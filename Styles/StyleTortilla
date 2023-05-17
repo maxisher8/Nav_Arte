@@ -1,0 +1,29 @@
+body {
+    background-image: url("../imgs/Tortilla/bg.jpg");
+}
+img{
+    border: 3px solid black;
+    margin-left: 10px;
+}
+a{
+    color:rgb(0, 140, 255);
+    background-color: white;
+    border: 2px solid black;    
+    margin-left: 10px;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+div{
+    background-color: bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 2px solid black;
+    margin-right: 400px;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding-left: 20px;
+}

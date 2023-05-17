@@ -1,0 +1,42 @@
+body{
+    background-image: url("../imgs/bckgr.jpg");
+    background-color: #cccccc;
+}
+h1,h3,p,li{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+}
+img{
+    width: 25rem;
+    height: 18.75rem;
+    margin-top: 4rem;
+}
+ul{
+    margin-left: 25rem;
+    margin-top: -15.625rem;
+}
+section{
+    float: left;
+}
+article{
+    float: right;
+}
+.Carrito{
+    background-color: blue;
+    border-style: double;
+    border-color: black;
+    width: 7rem;
+}
+.Carrito img{
+    display: flex;
+    height: 1.25rem;
+    width: 1.25rem;
+    margin-top: -2.15rem;
+    margin-left: 5.4rem;
+}
+.Carrito p{
+    color: #cccccc;
+    margin-left: 0.6rem;
+    margin-top: -0.05rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
